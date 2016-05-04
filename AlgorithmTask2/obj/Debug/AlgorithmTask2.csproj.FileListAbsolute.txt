@@ -1,0 +1,7 @@
+c:\users\яна\documents\visual studio 2015\Projects\AlgorithmTask2\AlgorithmTask2\bin\Debug\AlgorithmTask2.exe.config
+c:\users\яна\documents\visual studio 2015\Projects\AlgorithmTask2\AlgorithmTask2\bin\Debug\AlgorithmTask2.exe
+c:\users\яна\documents\visual studio 2015\Projects\AlgorithmTask2\AlgorithmTask2\bin\Debug\AlgorithmTask2.pdb
+c:\users\яна\documents\visual studio 2015\Projects\AlgorithmTask2\AlgorithmTask2\obj\Debug\AlgorithmTask2.csprojResolveAssemblyReference.cache
+c:\users\яна\documents\visual studio 2015\Projects\AlgorithmTask2\AlgorithmTask2\obj\Debug\AlgorithmTask2.exe
+c:\users\яна\documents\visual studio 2015\Projects\AlgorithmTask2\AlgorithmTask2\obj\Debug\AlgorithmTask2.pdb
+C:\Users\Яна\Documents\Visual Studio 2015\Projects\AlgorithmTask2\AlgorithmTask2\bin\Debug\Input.txt
